@@ -1,0 +1,2 @@
+admin, doctor, admin@123
+nurse, Staff, nurse@123
